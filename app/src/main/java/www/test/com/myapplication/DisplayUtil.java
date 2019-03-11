@@ -9,7 +9,7 @@ import android.view.WindowManager;
 /**
  * Created by Mr.Z on 15/12/11.
  */
-public class DisplayUtil {
+public class DisplayUtil { 
     /**
      * 屏幕宽度
      */
